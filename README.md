@@ -1,7 +1,5 @@
 With over 24+ years as a software/web developer, I have been involved in projects of all kinds, across a number of different industries. In the first half of my career, I had traditionally been a backend developer (php, java, python), but the majority of my work at my most recent job was heavily frontend. Now that I have a sizable amount of frontend experience, I have gained a solid understanding and capability to operate across the entire stack -- from the OS that talks to bare metal systems, to the applications that run on them, all the way to the user experience in the browser.
 
-I am, as much as anyone really can be anymore, a full stack developer. 
-
 I've made some very minor contributions to some open source projects, but... hey, better than nothing!
 
 | Project | Pull Request |
